@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About
-
 Assalamu Alaikum, I'm Sayma Tasnim, a final-year Computer Science student at Jahangirnagar University with a passion for backend development, web technologies, artificial intelligence, and competitive programming.
 
 This blog is where I document my journey through software engineering—sharing what I learn, the projects I build, and the ideas I explore. I enjoy understanding how systems work behind the scenes, solving algorithmic challenges, and building software that is both practical and scalable.
